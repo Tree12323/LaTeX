@@ -1,0 +1,129 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{fedus2018maskgan}{article}{}
+      \name{author}{3}{}{%
+        {{hash=749d4fb83777d7b74c0ee8de5a510f41}{%
+           family={Fedus},
+           familyi={F\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=d4f74ef4c79f3bb1e51e378184d8850e}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={Ian\bibnamedelima J},
+           giveni={I\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=978bf3b58698c55cce487279eb72f59f}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Andrew\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f03c049f2ebfba8cb2a59d996c30086}
+      \strng{fullhash}{7f03c049f2ebfba8cb2a59d996c30086}
+      \strng{bibnamehash}{7f03c049f2ebfba8cb2a59d996c30086}
+      \strng{authorbibnamehash}{7f03c049f2ebfba8cb2a59d996c30086}
+      \strng{authornamehash}{7f03c049f2ebfba8cb2a59d996c30086}
+      \strng{authorfullhash}{7f03c049f2ebfba8cb2a59d996c30086}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv: Machine Learning}
+      \field{title}{MaskGAN: Better Text Generation via Filling in the ______}
+      \field{year}{2018}
+    \endentry
+    \entry{feifei2007learning}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6f2fea4ae5e2b824fa551302754355a5}{%
+           family={Feifei},
+           familyi={F\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a6784304d1cc890b2cb6c6c7f2f3fd76}{%
+           family={Fergus},
+           familyi={F\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e52876f830a8a20786ff3e4d7dd6f083}{%
+           family={Perona},
+           familyi={P\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{716c87e34a085323a9742cbed3353747}
+      \strng{fullhash}{716c87e34a085323a9742cbed3353747}
+      \strng{bibnamehash}{716c87e34a085323a9742cbed3353747}
+      \strng{authorbibnamehash}{716c87e34a085323a9742cbed3353747}
+      \strng{authornamehash}{716c87e34a085323a9742cbed3353747}
+      \strng{authorfullhash}{716c87e34a085323a9742cbed3353747}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer Vision and Image Understanding}
+      \field{number}{1}
+      \field{title}{Learning generative visual models from few training examples: An incremental Bayesian approach tested on 101 object categories}
+      \field{volume}{106}
+      \field{year}{2007}
+      \field{pages}{59\bibrangedash 70}
+      \range{pages}{12}
+    \endentry
+    \entry{Yu2016SeqGAN}{article}{}
+      \name{author}{4}{}{%
+        {{hash=98c85f16186b9ce495905d4a0dd69e57}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Lantao},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fbc51a6317f158547173b93086d9b1a2}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Weinan},
+           giveni={W\bibinitperiod}}}%
+        {{hash=2f3ea981fa5a715a69118b48e576a9f5}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c447a713c11f58a40c2a899040774a98}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{9de23e2f72700b4e180017bd0a3a6cc4}
+      \strng{fullhash}{63468ed95dbde63f8c46fbfca5063f4b}
+      \strng{bibnamehash}{9de23e2f72700b4e180017bd0a3a6cc4}
+      \strng{authorbibnamehash}{9de23e2f72700b4e180017bd0a3a6cc4}
+      \strng{authornamehash}{9de23e2f72700b4e180017bd0a3a6cc4}
+      \strng{authorfullhash}{63468ed95dbde63f8c46fbfca5063f4b}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient}
+      \field{year}{2016}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

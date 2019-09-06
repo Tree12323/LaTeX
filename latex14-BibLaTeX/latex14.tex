@@ -1,0 +1,26 @@
+\documentclass{article}
+
+%\usepackage{ctex}
+\usepackage[style=numeric, backend=biber]{biblatex}
+\addbibresource{test.bib}
+
+\title{BibLaTeX}
+\author{Yong}
+\date{\today}
+
+\begin{document}
+	\maketitle
+	
+%	无格式化引用
+	The first one\cite{Yu2016SeqGAN}
+	
+%	带方括号带引用
+	The second one\parencite{feifei2007learning}
+	
+%	上标引用
+	The third one\supercite{fedus2018maskgan}
+	
+	\printbibliography
+	
+	
+\end{document}
